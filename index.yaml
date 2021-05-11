@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  orc8rlib:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-05-11T06:24:12.913057724Z"
+    description: A Helm library chart for orchestrator modules
+    digest: 7b2af4423b77bf8ca1f288e9503edcfb3a300e8c32c8ea1c317a4064336eb8b6
+    keywords:
+    - magma
+    - orc8rlib
+    name: orc8rlib
+    sources:
+    - https://github.com/magma/magma
+    type: library
+    urls:
+    - https://github.com/ShubhamTatvamasi/magma-orc8rlib-chart/releases/download/orc8rlib-0.1.2/orc8rlib-0.1.2.tgz
+    version: 0.1.2
+generated: "2021-05-11T06:24:12.913069724Z"
